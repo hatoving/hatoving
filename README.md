@@ -1,7 +1,7 @@
 ### YO WASSUP AHHHHHHHHHHHHHHHHHH
 You landed on my GitHub profile. Amazing.
 
-- 🔭 I’m currently working on FNaF: All-Stars with FreeDEV, a FNF mod, and a secret project of my own.
+- 🔭 I’m currently working on a FNF mod and a secret project of my own.
 - 🌱 I’m currently learning C# and C/C++.
 - ⚡ Fun fact: I've killed *at least* 40 people back in 2011. What a cool fact!
 - 📫 How to reach me: @hatoving at Twitter
