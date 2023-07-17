@@ -1,10 +1,10 @@
 ### YO WASSUP AHHHHHHHHHHHHHHHHHH
 You landed on my GitHub profile. Amazing.
 
-- 🔭 I’m currently working on a FNF mod and a secret project of my own.
-- 🌱 I’m currently learning C# and C/C++.
+- 🔭 I’m currently working on a game for a game jam, a mashup project and also for the fuhen PS Vita contest.
+- 🌱 I’m currently learning C and Rust.
 - ⚡ Fun fact: I've killed ***at least*** 40 people back in 2011. What a cool fact!
-- 😄 Pronouns: he/him
+- 📫 How to reach me: Discord (@hatoving), Twitter (@hatoving)
 
 <!--
 **hatoving/hatoving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
