@@ -1,5 +1,5 @@
-### YO WASSUP AHHHHHHHHHHHHHHHHHH
-You landed on my GitHub profile. Amazing.
+### Hi!
+My name is hatoving.
 
 - 🔭 I’m currently working on a game for a game jam, a mashup project and also for the fuhen PS Vita contest.
 - 🌱 I’m currently learning C and Rust.
