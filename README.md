@@ -1,7 +1,7 @@
 ### Hi!
 My name is hatoving.
 
-- 🔭 I’m currently working on a game for a game jam, a mashup project and also for the fuhen PS Vita contest.
+- 🔭 I’m currently working on a game.
 - 🌱 I’m currently learning C and Rust.
 - ⚡ Fun fact: I've killed ***at least*** 40 people back in 2011. What a cool fact!
 - 📫 How to reach me: Discord (@hatoving), Twitter (@hatoving)
