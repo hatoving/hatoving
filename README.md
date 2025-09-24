@@ -1,5 +1,6 @@
 <h2 align="center">~ hiiiiiii! 💃✨ ~</h2>
 my name's hatoving. i'm a game developer, programmer, artist, and overall a big idiot
+
 my profile picture is done by the wonderful Tomoko Suzuki  💖 :)
 
 some notable projects i've worked on/created:
