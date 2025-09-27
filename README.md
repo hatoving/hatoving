@@ -1,9 +1,8 @@
 <h2 align="center">~ ✨ 'ellooooo!! 💃✨ ~</h2>
 <h3 align="center">my name's <em><strong>hatoving</strong></em>! i'm a...</h3>
-
 <h4 align="center">game developer, homebrew developer, programmer,<br>
 modder, sound designer, voice actor-ish, artist, mashup artist</h4>
-<h6 align="center"> ...and a big 'ol idiot :P</h6><br>
+<h6 align="center">(note: unprofessional in every hobby)</h6><br>
 
 my profile picture is done by the wonderful Tomoko Suzuki  💖 :)<br>
 some notable projects i've worked on/created:
